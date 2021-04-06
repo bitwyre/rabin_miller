@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(rabin_miller)
+set(CMAKE_CXX_STANDARD 20)
+set(SOURCES main.cpp rabin_miller.hpp)
+add_executable(rabin_miller ${SOURCES})
