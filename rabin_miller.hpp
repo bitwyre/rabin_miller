@@ -3,7 +3,7 @@
 
 // Utility function to do modular exponentiation.
 // It returns (x^y) % p
-inline auto power(int x, unsigned int y, int p) -> int {
+inline auto power(int x, unsigned y, int p) -> int {
 	int res = 1;
 	x = x % p; // Update x if it is more than or
 				// equal to p
