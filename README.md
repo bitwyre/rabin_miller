@@ -30,7 +30,7 @@ To run the benchmark and obtain results in CSV file
 
 # Author
 
-- (Sonkeng Maldini)[https://github.com/sdmg15]
+- [Sonkeng Maldini](https://github.com/sdmg15)
 
 # Copyright
 
